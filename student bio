@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Student Bio</title>
+  </head>
+  <body>
+    <h1>Student Bio</h1>
+    <h2>Minh Pham</h2>
+    <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/26165478_2025032057514407_2670373828323423123_n.jpg?_nc_cat=101&_nc_oc=AQkXsSqkNJ7cITT_vHaljjykzW-WLPCJ_lFdGS4f62VUVwX46Rmqe61i8Lf_nxMIMTc&_nc_ht=scontent-mia3-2.xx&oh=dcc1c0df1dd8e42373650f5e6c64f0f2&oe=5D51A94C">
+    <p>I'm Asian</p>
+    <h2>Contact Info</h2>
+    <ul>
+        <li>Email: <a href="mailto:mqpham848@gmail.com</a>mqpham848@gmail.com</li>
+        <li>GitHub: <a href="https://github.com/gatorpazz"Go to git hub</li>
+        <li>Portfolio: <a href="https://michaelpascuzzi.com"Go to portfolio</li>
+    </ul>
+  </body>
+</html>
